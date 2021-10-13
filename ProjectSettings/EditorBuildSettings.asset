@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/test.unity
+    guid: bb0412a015579f74fb24198ce455dfdb
+  - enabled: 1
+    path: Assets/The Street 1.unity
+    guid: d1e2f980eb1c4ce438aa81f1bb3a862e
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5423e3a4ef88cf046ad1af71f9833399, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a9f12ad1efe368f4d99786b9167f3333, type: 2}
