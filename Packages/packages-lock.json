@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.normalvr.normcore": {
-      "version": "2.1.9",
+      "version": "2.1.10",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -10,7 +10,7 @@
       "url": "https://normcore-registry.normcore.io"
     },
     "com.unity.collab-proxy": {
-      "version": "1.9.0",
+      "version": "1.11.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
