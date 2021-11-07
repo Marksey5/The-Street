@@ -2,7 +2,7 @@
 ## Hello and welcome to "The Street"! 
 Explore an eerily dark street leading you into some funky fantasy worlds!
 
-You can find the latest release [here!](https://github.com/MarkseyVR/The-Street/releases/tag/v1.0.2)
+You can find the latest release [here!](https://github.com/MarkseyVR/The-Street/releases/tag/v1.0.3)
 
 Follow me on [instagram](https://www.instagram.com/marksey_vr/) and [twitter](https://twitter.com/MarkseyVR) for updates and future projects!
 
