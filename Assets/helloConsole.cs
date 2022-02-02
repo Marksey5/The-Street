@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+//write to console Cristina
 
 public class helloConsole : MonoBehaviour
 {
@@ -8,6 +9,7 @@ public class helloConsole : MonoBehaviour
     void Start()
     {
         Debug.Log("Hello my name is Riley");
+        Debug.Log("985729");
     }
 
     // Update is called once per frame
